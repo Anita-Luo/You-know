@@ -1,2 +1,3 @@
 # You-know
-This is a discription.
+This is a test repository for Anita's video.
+
